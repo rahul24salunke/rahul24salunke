@@ -1,20 +1,111 @@
-<h1 align="center">Hi 👋, I'm Rahul salunke</h1>
-<h3 align="center">A passionate Full stack developer and tech enthusiast from India</h3>
-<h4>👨‍💻 About me</h4>
+<h1 align="center">Hi 👋, I'm Rahul Salunke</h1>
+<h3 align="center">🚀 Software Engineer | Backend Developer | AI Builder from India </h3>
 
-- 🔭 I’m currently working on **My personal project**
+---
 
-- 🌱 I’m currently learning **postgres and next.js**
+## 🧑‍💻 About Me
 
-- 💬 Ask me about **Full stack development and Dsa**
+- 🔭 Currently building **AI-powered Developer Tools**
+- 🌱 Learning **System Design, PostgreSQL & Scalable Architectures**
+- 🧠 Strong in **Data Structures & Algorithms**
+- 🤖 Exploring **LLMs, API integrations & Backend Optimization**
+- 💬 Ask me about **Backend, Full Stack & AI Projects**
+- 📫 Reach me at: **rahul60salunke@gmail.com**
 
-- 📫 How to reach me **rahul60salunke@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rahulsalunke24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulsalunke24" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rahul24salunke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahul24salunke" height="30" width="40" /></a>
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>&nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🌐 Web & Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind" />
+</p>
+
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI README Generator
+- Generates complete README for entire codebase
+- Handles large repositories using intelligent chunking
+- Published as an npm package
+- Optimized for large context AI models
+
+---
+
+### 🧠 RefactorX
+- Integrated **Monaco Editor** for real-time multi-language code editing.
+- Designed and implemented an **AI-driven code explanation and refactoring engine**.
+- Improved developer productivity by enhancing code readability and structure.
+- Enabled syntax highlighting and low-latency updates for multiple programming languages.
+- Built an interactive developer-friendly UI for seamless code analysis.
+
+
+---
+
+### 🧏 DeafSo 
+
+- Built an AI-powered accessibility platform enabling deaf students to learn through **sign-language video content** and contextual Q&A.
+- Implemented **RAG (Retrieval-Augmented Generation)** over study materials for context-aware question answering.
+- Designed a scalable backend using **Node.js, PostgreSQL, and Prisma ORM**.
+- Implemented secure **JWT authentication** and **role-based access control (RBAC)**.
+- Built a semantic **PDF embedding and retrieval pipeline** for intelligent content search.
+
+---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul24salunke&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📈 Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul24salunke&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Crack top product-based company
+- 🧠 Master System Design
+- 🔥 Build scalable SaaS product
+- 🤖 Work deeply with AI & Backend systems
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/rahulsalunke24/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="mailto:rahul60salunke@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
+
+---
+
+⭐ From [Rahul Salunke](https://github.com/yourusername)
