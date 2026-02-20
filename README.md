@@ -68,8 +68,6 @@
 - Built a semantic **PDF embedding and retrieval pipeline** for intelligent content search.
 
 ---
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -108,4 +106,4 @@
 
 ---
 
-⭐ From [Rahul Salunke](https://github.com/yourusername)
+⭐ From [Rahul Salunke](https://github.com/rahul24salunke)
