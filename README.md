@@ -83,16 +83,6 @@
 </p>
 
 ---
-
-## 🎯 2026 Goals
-
-- 🚀 Crack top product-based company
-- 🧠 Master System Design
-- 🔥 Build scalable SaaS product
-- 🤖 Work deeply with AI & Backend systems
-
----
-
 ## 🤝 Connect With Me
 
 <p>
